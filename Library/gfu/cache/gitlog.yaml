@@ -1,0 +1,342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: 
+  m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitLogCache
+  cacheType: 3
+  lastUpdatedAtString: 2023-09-22T15:29:08.872+02:00
+  initializedAtString: 2023-09-22T15:27:14.230+02:00
+  log:
+  - commitID: 1d2d1cbd2de8e22b1ba5475b71767c93914104fd
+    mergeA: 
+    mergeB: 
+    authorName: anargnr
+    authorEmail: anareignier@gmail.com
+    commitEmail: anareignier@gmail.com
+    commitName: anargnr
+    summary: premier commit avant la mort
+    description: "deux couloirs, player movement fait, avant de tester t\xE9l\xE9portation"
+    timeString: 2023-09-22T15:29:07.000+02:00
+    commitTimeString: 2023-09-22T15:29:07.000+02:00
+    changes:
+    - path: .vsconfig
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\.vsconfig
+      projectPath: .vsconfig
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\3Dobj.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\3Dobj.meta
+      projectPath: Assets\3Dobj.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\New Material 1.mat
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Materials\New
+        Material 1.mat
+      projectPath: Assets\Materials\New Material 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\New Material 1.mat.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Materials\New
+        Material 1.mat.meta
+      projectPath: Assets\Materials\New Material 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\New Material 2.mat
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Materials\New
+        Material 2.mat
+      projectPath: Assets\Materials\New Material 2.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\New Material 2.mat.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Materials\New
+        Material 2.mat.meta
+      projectPath: Assets\Materials\New Material 2.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\New Material.mat
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Materials\New
+        Material.mat
+      projectPath: Assets\Materials\New Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\New Material.mat.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Materials\New
+        Material.mat.meta
+      projectPath: Assets\Materials\New Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Movement.cs
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Scripts\Movement.cs
+      projectPath: Assets\Scripts\Movement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Movement.cs.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Scripts\Movement.cs.meta
+      projectPath: Assets\Scripts\Movement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Sounds.meta
+      projectPath: Assets\Sounds.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures.meta
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\Textures.meta
+      projectPath: Assets\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\packages-lock.json
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\MemorySettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\MemorySettings.asset
+      projectPath: ProjectSettings\MemorySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PackageManagerSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\PackageManagerSettings.asset
+      projectPath: ProjectSettings\PackageManagerSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+      projectPath: ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\SceneTemplateSettings.json
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\SceneTemplateSettings.json
+      projectPath: ProjectSettings\SceneTemplateSettings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VersionControlSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\VersionControlSettings.asset
+      projectPath: ProjectSettings\VersionControlSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\EditorUserSettings.asset
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\UserSettings\EditorUserSettings.asset
+      projectPath: UserSettings\EditorUserSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\Layouts\default-2022.dwlt
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\UserSettings\Layouts\default-2022.dwlt
+      projectPath: UserSettings\Layouts\default-2022.dwlt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\Search.index
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\UserSettings\Search.index
+      projectPath: UserSettings\Search.index
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: UserSettings\Search.settings
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\UserSettings\Search.settings
+      projectPath: UserSettings\Search.settings
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: acb6ddb9ba23e53c113bae4e8c7854cd2f3001f8
+    mergeA: 
+    mergeB: 
+    authorName: anargnr
+    authorEmail: anareignier@gmail.com
+    commitEmail: anareignier@gmail.com
+    commitName: anargnr
+    summary: Initial commit
+    description: 
+    timeString: 2023-09-22T15:27:13.000+02:00
+    commitTimeString: 2023-09-22T15:27:13.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\anare\OneDrive\Bureau\unity\TESTBEAUTEABSURDE\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
